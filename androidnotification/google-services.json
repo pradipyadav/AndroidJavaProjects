@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170216583000",
+    "firebase_url": "https://andjavaproject.firebaseio.com",
+    "project_id": "andjavaproject",
+    "storage_bucket": "andjavaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170216583000:android:f539f9fe80150541c4ff2d",
+        "android_client_info": {
+          "package_name": "com.sony.androidnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170216583000-20lvovag71r983to28la2us3g38jkp8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sony.androidnotification",
+            "certificate_hash": "0489df2e6434ca832af67afd05dfc7f8d5de9350"
+          }
+        },
+        {
+          "client_id": "170216583000-30o5o7rsfbfhrunk2s8kvt0tugke81ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTJbSoE8TnQZq-mbCnnVo7xXUToD1_9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170216583000-30o5o7rsfbfhrunk2s8kvt0tugke81ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

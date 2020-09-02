@@ -1,0 +1,4 @@
+include ':facebookloginex'
+include ':androidnotification'
+include ':app'
+rootProject.name = "AndJavaProject"
