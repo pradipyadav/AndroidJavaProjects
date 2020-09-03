@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/androidnotification" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/facebookloginex" />
+            <option value="$PROJECT_DIR$/multilayoutrecyclerview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
