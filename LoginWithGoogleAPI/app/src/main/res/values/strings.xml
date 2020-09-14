@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginWithGoogleAPI</string>
+    <string name="signInText">Sign in using your google account</string>
+</resources>
